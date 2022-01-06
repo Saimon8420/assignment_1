@@ -58,7 +58,6 @@ h1{
     border-radius: 25px;
     padding: 40px;
 }
-
 .divide2{
     display: flex;
     padding: 5px;
@@ -103,4 +102,14 @@ footer p{
     text-align: center;
     color: white;
 }
-
+.devide4{
+    display: block;
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.width1{
+     width: 100%;
+     padding: 5%;
+     text-align: center;
+}
