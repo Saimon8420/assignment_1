@@ -80,16 +80,6 @@ h1{
 .divide3 img{
     width: 100%;
 }
-.divide4{
-    display: flex;
-    padding: 5px;
-    gap: 20px;
-    background-image: url(shapes/shape-2.png)
-    margin-bottom: 10px;
-}
-.divide4 img{
-    width:100%;
-}
 footer{
       background-color:black;
 }
